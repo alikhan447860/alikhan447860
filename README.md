@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/alithereall" target="blank"><img src="https://img.shields.io/twitter/follow/@alithereall?logo=twitter&style=for-the-badge" alt="@alithereall" /></a> </p>
 
-- 🌱 I’m currently learning **Springboot**
+- 🌱 I’m currently doing **Automation testing**
 
-- 💬 Ask me about **MySQL,java,jsp-servlet-jdbc**
+- 💬 Ask me about ** Springboot,SpringCore,MySQL,java,jsp-servlet-jdbc**
 
 - 📫 How to reach me **Khanali6861@gmail.com OR 7869296166**
 
