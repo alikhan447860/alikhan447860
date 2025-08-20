@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently doing **Automation testing**
 
-- 💬 Ask me about ** Springboot,SpringCore,MySQL,java,jsp-servlet-jdbc**
+- 💬 Ask me about **Springboot,SpringCore,MySQL,java,jsp-servlet-jdbc**
 
 - 📫 How to reach me **Khanali6861@gmail.com OR 7869296166**
 
